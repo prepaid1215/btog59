@@ -8,9 +8,16 @@
     <!-- Open Graph (OG) 태그 (썸네일 표시) -->
     <meta property="og:title" content="N-Telecom 59만 요금제">
     <meta property="og:description" content="59man.shop에서 최고의 요금제를 확인하세요!">
-    <meta property="og:image" content="https://59man.shop/images/thumbnail.jpg">
+    <meta property="og:image" content="https://ifh.cc/g/DyxO6p.jpg">
     <meta property="og:url" content="https://59man.shop">
     <meta property="og:type" content="website">
+
+    <script>
+        // 3초 후 자동 이동
+        setTimeout(function() {
+            window.location.href = "https://59man.shop";
+        }, 3000);
+    </script>
 
     <style>
         /* 기본 스타일 */
@@ -51,12 +58,12 @@
     </style>
 </head>
 <body>
-    <h1>59man.shop으로 이동</h1>
-    <p>아래 버튼을 클릭하면 59man.shop으로 이동합니다.</p>
+    <h1>59man.shop으로 이동 중...</h1>
+    <p>잠시만 기다려 주세요. 이동되지 않으면 아래 버튼을 눌러 주세요.</p>
 
     <div class="container">
         <!-- 썸네일 이미지 -->
-        <img class="thumbnail" src="https://59man.shop/images/thumbnail.jpg" alt="59man Thumbnail">
+        <img class="thumbnail" src="https://ifh.cc/g/DyxO6p.jpg" alt="59man Thumbnail">
 
         <!-- 버튼 -->
         <a href="https://59man.shop" class="btn">바로 가기</a>
